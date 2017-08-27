@@ -110,7 +110,7 @@ text-shadow: 10px 0px rgba(0, 255, 38,.5);}
 
 #screen {
     width: 70vw;
-    height: 70vh;
+    height: 30vh;
     border-radius: 0 0 4px 4px;
     margin: 5% auto;
     padding-top: 20px;
